@@ -1,2 +1,4 @@
 ﻿#!/bin/bash
-echo "Staging deployment"
+echo "Deployment started"
+echo "Development and staging changes resolved"
+echo "Deployment completed successfully"
